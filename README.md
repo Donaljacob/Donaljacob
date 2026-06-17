@@ -10,4 +10,4 @@
 
 🧰 Daily tools: Wireshark, Splunk, Nmap, Docker, Linux CLI, Python
 
-📫 Reach me on [LinkedIn](your-linkedin-url-here)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/donal-jacob/)
